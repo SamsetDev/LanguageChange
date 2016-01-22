@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">LanguageChange</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="action_logout" translatable="false">Logout</string>
+    <string name="action_devinfo" translatable="false">Developer</string>
+    <string name="share_app" translatable="false">Share App</string>
+    <string name="language_setting" translatable="false">Change Language</string>
+    <string name="action_change_pass">Change Password</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">Third</string>
+</resources>
